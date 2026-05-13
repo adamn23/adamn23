@@ -22,30 +22,6 @@ UofT Computer Science student focused on systems engineering and AI engineering,
 
 ---
 
-## 📌 Featured Projects
-
-### ResumeLift
-AI-powered resume analysis platform that matches resumes to job descriptions using NLP embeddings and generates structured improvement feedback.
-
-- FastAPI + PostgreSQL backend  
-- React dashboard frontend  
-- Sentence-transformer embeddings + cosine similarity scoring  
-- OpenAI API for AI-generated feedback  
-- Fully Dockerized full-stack system  
-
----
-
-### Infrastructure Monitoring Dashboard
-Full-stack system for tracking infrastructure assets and maintenance history.
-
-- React + FastAPI + PostgreSQL  
-- Normalized relational database design  
-- RESTful API architecture  
-- Interactive dashboard with filtering and sorting  
-- Dockerized deployment  
-
----
-
 ## 📈 Goals
 - Deepen knowledge in systems design and distributed systems  
 - Build scalable AI-powered software systems  
