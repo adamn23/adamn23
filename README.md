@@ -13,7 +13,7 @@ UofT Computer Science student focused on systems engineering and AI engineering,
 ---
 
 ## 🧠 What I Work With
-- **Languages:** Python, Java, C++, JavaScript  
+- **Languages:** Python, Java, C, C++, Rust, JavaScript  
 - **Frontend:** React, Vite, TailwindCSS  
 - **Backend:** FastAPI, Node.js  
 - **Databases:** PostgreSQL  
