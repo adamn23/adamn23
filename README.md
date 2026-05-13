@@ -16,7 +16,7 @@ UofT Computer Science student focused on systems engineering and AI engineering,
 - **Languages:** Python, Java, C, C++, Rust, JavaScript  
 - **Frontend:** React, Vite, TailwindCSS  
 - **Backend:** FastAPI, Node.js  
-- **Databases:** PostgreSQL  
+- **Databases:** PostgreSQL, MongoDB
 - **AI/ML:** sentence-transformers, OpenAI API  
 - **Tools:** Docker, Git, Linux  
 
