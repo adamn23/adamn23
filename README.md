@@ -52,9 +52,3 @@ Full-stack system for tracking infrastructure assets and maintenance history.
 - Pursue software engineering roles in FAANG and quantitative engineering  
 
 ---
-
-## 📫 Contact
-- GitHub: (your link)  
-- Email: (optional)  
-
----
