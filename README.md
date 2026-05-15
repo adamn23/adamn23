@@ -1,4 +1,4 @@
-# Hi, I’m Adam
+# Hey, I’m Adam
 
 UofT Computer Science student focused on systems engineering and AI engineering, with an interest in building scalable, high-performance software systems.
 
