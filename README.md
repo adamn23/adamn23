@@ -4,7 +4,7 @@ UofT Computer Science student focused on systems engineering and AI engineering,
 
 ---
 
-## 🚀 About Me
+## About Me
 - SWE & CS @ University of Toronto  
 - Interested in systems engineering and AI engineering  
 - Focused on designing scalable, production-grade software systems  
@@ -12,7 +12,7 @@ UofT Computer Science student focused on systems engineering and AI engineering,
 
 ---
 
-## 🧠 What I Work With
+## What I Work With
 - **Languages:** Python, Java, C, C++, Rust, JavaScript  
 - **Frontend:** React, Vite, TailwindCSS  
 - **Backend:** FastAPI, Node.js  
@@ -22,7 +22,7 @@ UofT Computer Science student focused on systems engineering and AI engineering,
 
 ---
 
-## 📈 Goals
+## Goals
 - Deepen knowledge in systems design and distributed systems  
 - Build scalable AI-powered software systems  
 - Pursue software engineering roles in FAANG and quantitative engineering  
